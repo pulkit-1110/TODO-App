@@ -12,7 +12,7 @@ This is a simple Todo app built with Node.js, Express.js, HTML, CSS, and JavaScr
 
 Follow these steps to get the project up and running on your local machine:
 
-1. Clone the repository: https://github.com/pulkit-1110/TODO-App
+1. Clone the repository: https://github.com/pulkit-1110/TODO-App.git
 2. Install the required dependencies:
 - cd todo-app
 - npm install
